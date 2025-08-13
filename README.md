@@ -99,7 +99,7 @@ For me, software engineering isn’t just a profession it’s a craft I enjoy re
 
 ## 🎓 Academic Projects  
 
-### [TacoDB]
+### TacoDB
 **Tech Stack:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 Built a single-threaded relational database with custom data pages, heap file management, CRUD operations, and B-tree indexing. Optimized performance with query execution plans and external merge sort joins.  
 
