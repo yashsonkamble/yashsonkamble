@@ -46,8 +46,24 @@ For me, software engineering isn’t just a profession it’s a craft I enjoy re
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
 
 ### 📡 Networking & Protocols  
-TCP/IP, UDP, HTTP/HTTPS, DNS, DHCP, NAT, ICMP, ARP, BGP, OSPF, IS-IS, EIGRP  
-Socket Programming, Wireshark, Cisco Packet Tracer, Traceroute, Tcpdump
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-007ACC?style=flat&logo=internet-protocol&logoColor=white) 
+![UDP](https://img.shields.io/badge/-UDP-0052CC?style=flat&logo=internet-protocol&logoColor=white) 
+![HTTP](https://img.shields.io/badge/-HTTP-F57242?style=flat&logo=http&logoColor=white) 
+![HTTPS](https://img.shields.io/badge/-HTTPS-4CAF50?style=flat&logo=https&logoColor=white) 
+![DNS](https://img.shields.io/badge/-DNS-2196F3?style=flat) 
+![DHCP](https://img.shields.io/badge/-DHCP-009688?style=flat) 
+![NAT](https://img.shields.io/badge/-NAT-3F51B5?style=flat) 
+![ICMP](https://img.shields.io/badge/-ICMP-673AB7?style=flat) 
+![ARP](https://img.shields.io/badge/-ARP-FF5722?style=flat) 
+![BGP](https://img.shields.io/badge/-BGP-3F51B5?style=flat) 
+![OSPF](https://img.shields.io/badge/-OSPF-2196F3?style=flat) 
+![IS-IS](https://img.shields.io/badge/-IS--IS-9C27B0?style=flat) 
+![EIGRP](https://img.shields.io/badge/-EIGRP-673AB7?style=flat) 
+![Socket Programming](https://img.shields.io/badge/-Socket_Programming-FF9800?style=flat) 
+![Wireshark](https://img.shields.io/badge/-Wireshark-007ACC?style=flat&logo=wireshark&logoColor=white) 
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco_Packet_Tracer-00A8E8?style=flat&logo=cisco&logoColor=white) 
+![Traceroute](https://img.shields.io/badge/-Traceroute-795548?style=flat) 
+![Tcpdump](https://img.shields.io/badge/-Tcpdump-FF5722?style=flat)
 
 ### 📊 Data Science & Machine Learning  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -68,7 +84,8 @@ Socket Programming, Wireshark, Cisco Packet Tracer, Traceroute, Tcpdump
 ![GTest](https://img.shields.io/badge/-GTest-007396?style=flat)
 ![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-CI/CD, Bug Tracking
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4CAF50?style=flat) 
+![Bug Tracking](https://img.shields.io/badge/-Bug_Tracking-FF5722?style=flat)
 
 ### ⚙ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
