@@ -7,7 +7,7 @@
 
 I recently earned my **Master’s in Computer Science** from the **University at Buffalo**, building on a solid foundation from my Bachelor’s degree in Computer Science. I’ve always been fascinated by the way technology can turn ideas into reality, and I’m passionate about creating **efficient, scalable, and impactful software** that solves real-world problems.  
 
-Throughout my academic journey — both in my Bachelor’s and Master’s — I immersed myself in diverse projects that challenged me to explore multiple domains of computer science. I:  
+Throughout my academic journey both in my Bachelor’s and Master’s I immersed myself in diverse projects that challenged me to explore multiple domains of computer science. I:  
 
 - Built a **custom relational database system** from scratch  
 - Developed **real-time computer vision applications**  
@@ -94,6 +94,46 @@ For me, software engineering isn’t just a profession it’s a craft I enjoy re
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## 🎓 Academic Projects  
+
+### [TacoDB]
+**Tech Stack:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+Built a single-threaded relational database with custom data pages, heap file management, CRUD operations, and B-tree indexing. Optimized performance with query execution plans and external merge sort joins.  
+
+### [Multi-Client Chat Application](https://github.com/yashsonkamble/Multi-Client-Chat-Application)
+**Tech Stack:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+Text-based chat app in C++ using TCP sockets supporting multiple clients, authentication, message broadcasting, and offline message buffering. Tested for stable communication up to 10 users.  
+
+### [PintOS](https://github.com/yashsonkamble/PintOS)
+**Tech Stack:** ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
+Enhanced an educational OS by adding priority-based thread scheduling, priority donation, synchronization primitives, and support for user programs with system calls and ELF loading.  
+
+### [Web-Based House Price Prediction Tool](https://github.com/yashsonkamble/Web-Based-House-Price-Prediction-Tool)
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+Flask web app predicting Perth house prices using ML models. Deployed Decision Tree Regressor for real-time predictions achieving 90%+ accuracy.  
+
+### [Surveillance System for Fire and Human Detection](https://github.com/yashsonkamble/Surveillance-System-for-Fire-and-Human-Detection)
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+Remote CCTV monitoring app detecting fire and humans in real-time using CNN and OpenCV. Sends automated alarms on detection.  
+
+### [Smart Restaurant Management System](https://github.com/yashsonkamble/Smart-Restaurant-Management-System)
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+Full-stack web app for restaurant order, billing, and menu management. Responsive UI, centralized dashboard, containerized with Docker, deployed on AWS.  
+
+### [Data Classification Using Neural Networks](https://github.com/yashsonkamble/Data-Classification-Using-Neural-Networks)
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+Built feedforward and CNN models, improving accuracy up to 90% using hyperparameter tuning, batch normalization, dropout, and k-fold cross-validation.  
+
+### [8-Bit Microprocessor](https://github.com/yashsonkamble/8-Bit-Microprocessor)
+**Tech Stack:** ![Verilog](https://img.shields.io/badge/-Verilog-E44D26?style=flat) ![Xilinx](https://img.shields.io/badge/-Xilinx-EE0000?style=flat)  
+Designed an 8-bit single-cycle microprocessor on Basys 3 FPGA. Implemented ALU, registers, control unit, memory, and instruction execution verified via simulation and FPGA testing.  
+
+### [Instagram Bot](https://github.com/yashsonkamble/InstagramBot)
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
+Automated Instagram bot performing likes, comments, follows/unfollows, and messaging based on hashtags and user criteria, simulating human behavior for engagement growth.  
 
 ---
 
